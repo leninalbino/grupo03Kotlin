@@ -12,6 +12,10 @@
         <activity
             android:name=".NumeroPerfecto"
             android:exported="false" />
+
+        <activity
+            android:name=".PromedioAlumno"
+            android:exported="false" />
         <activity
             android:name=".AnioBisiesto"
             android:exported="false" />
