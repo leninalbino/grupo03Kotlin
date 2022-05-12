@@ -11,7 +11,10 @@
     <string name="txtTitulo04">Numero Perfecto</string>
     <string name="txtNumeroPerfecto04">Ingrese Un Numero</string>
     <string name="btnNumeroPerfecto">Consultar Numero Perfecto</string>
-
+    <string name="valtxtarticulos">Ingrese el total de los articulos</string>
+    <string name="valtxtarticulo">Ingrese  total de articulos</string>
+    <string name="valtxtmontototal">Ingrese el monto total de compras</string>
+    <string name="btncalcular">Calcular Descuento</string>
 
 
 </resources>
