@@ -15,6 +15,12 @@ class MainActivity : AppCompatActivity() {
             val intento2=Intent(this,AnioBisiesto::class.java)
             startActivity(intento2)
         }
+
+        val btn03 = findViewById<Button>(R.id.btn03)
+        btn03.setOnClickListener {
+            val intent3=Intent(this,PromedioAlumno:: class.java)
+            startActivity(intent3)
+        }
     }
 
 }
