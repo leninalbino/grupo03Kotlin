@@ -7,6 +7,11 @@
     <string name="txtTitulo">Consulta de Año Bisiesto</string>
     <string name="txtAnio">"Ingrese un  Año "</string>
     <string name="btnConsultar">Consultar Año Bisiesto</string>
+    <!--Controlador para el ejercicio04-->
+    <string name="txtTitulo04">Numero Perfecto</string>
+    <string name="txtNumeroPerfecto04">Ingrese Un Numero</string>
+    <string name="btnNumeroPerfecto">Consultar Numero Perfecto</string>
+
 
 
 </resources>
